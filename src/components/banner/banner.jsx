@@ -1,6 +1,6 @@
 import bannerPic from '/banner.png';
 import Button from '../ui/button/button';
-import { NavLink } from 'react-router-dom';
+import { NavLink } from 'react-router';
 
 function Banner() {
   return (

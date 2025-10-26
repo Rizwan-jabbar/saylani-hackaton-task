@@ -1,4 +1,4 @@
-import { Outlet, Navigate } from "react-router-dom";
+import { Outlet, Navigate } from "react-router";
 import { useSelector } from "react-redux";
 import Header from "../components/header/header";
 import Footer from "../components/footer/footer";

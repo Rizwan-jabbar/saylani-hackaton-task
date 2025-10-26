@@ -1646,7 +1646,7 @@ react-router-dom@^7.9.4:
   dependencies:
     react-router "7.9.4"
 
-react-router@7.9.4:
+react-router@7.9.4, react-router@^7.9.4:
   version "7.9.4"
   resolved "https://registry.yarnpkg.com/react-router/-/react-router-7.9.4.tgz#2c4249e5d0a6bb8b8f6bf0ede8f5077e4ff8024f"
   integrity sha512-SD3G8HKviFHg9xj7dNODUKDFgpG4xqD5nhyd0mYoB5iISepuZAvzSr8ywxgxKJ52yRzf/HWtVHc9AWwoTbljvA==
