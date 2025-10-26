@@ -58,7 +58,7 @@ function Cart() {
                     <td className="px-4 py-4 text-center">${item.price}</td>
 
                     {
-                      showPopUp && <PopUp className = {`bg-red-500`}>{`${item.title} is removed from cart`}</PopUp>
+                      showPopUp && <PopUp className = 'bg-red-500 text-white text-[12px]' >{`${item.title} is removed from cart`}</PopUp>
                     }
 
                     {/* Quantity */}
